@@ -4,4 +4,4 @@ This repository showcases practical skills in using SQL to improve the efficienc
 The purpose of me using SQL:
 - Automate hours of manual work weekly, and free the creativity of team members.
 - Reduce data processing time by over 90%.
-- Improve data accuracy in the compliance reporting.
+- Improve data accuracy in the analytical reports.
