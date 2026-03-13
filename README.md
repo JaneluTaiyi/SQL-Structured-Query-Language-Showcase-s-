@@ -3,7 +3,7 @@ This repository showcases practical skills in using SQL to improve the efficienc
 
 The purpose of me using SQL:
 - Reduce manual work by over 90%, and free the creativity of colleagues.
-- Improve accuracy in the reports.
+- Improve accuracy in the analysis reports.
 
 The example project database: northwind.db
 - file 1 Schema and diagram of the database
