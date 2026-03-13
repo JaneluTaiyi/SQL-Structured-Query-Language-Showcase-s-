@@ -9,3 +9,7 @@ The purpose of me using SQL:
 The example project database: northwind.db
 - file 1 Schema and diagram of the database
 - 
+
+Software used:
+-DB Browser for SQLite
+-DBeaver-ce-26.0.0
